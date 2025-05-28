@@ -1,0 +1,8 @@
+# requirements.txt
+requests
+pymongo
+elasticsearch
+python-json-logger
+prometheus_client
+pyyaml
+schedule
